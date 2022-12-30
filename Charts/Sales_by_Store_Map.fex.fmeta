@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" appName="retail_samples" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="6">
+        <entry key="ChartType" value="Bubblemap"/>
+        <entry key="LastDescribed" value="1672399010859"/>
+        <entry key="OutputFormat" value="JSCHART"/>
+        <entry key="bucketSyntax" value="true"/>
+        <entry key="masters" value="&quot;retail_samples/wf_retail_lite&quot;"/>
+        <entry key="tool" value="infoAssist,chart,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: February 22, 2018, Version: branch8202,233487&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iMi4xIiB2ZXJzaW9uPSIxLjIiPgogICAgPE9iamVjdCBvYmplY3RJZD0iVGFibGVDaGFydF8xIj4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkxpbmtlZFNvcnRzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImR1YWxCdWNrZXRGaWVsZFR5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iV2hlcmVUeXBlc09yZGVyZWQiIHR5cGU9Ikxpc3QiPgogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+SUFfV0hFUkU8L0VudHJ5PgogICAgICAgIDwvUHJvcGVydHk+CiAgICA8L09iamVjdD4KICAgIDxPYmplY3Qgb2JqZWN0SWQ9IkdMT0JBTCI+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlNhbXBsZURhdGEiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJlY29yZExpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj41MDA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxSdW5SZWNvcmRMaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+MDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbE9wdGltaXphdGlvbiIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPnRydWU8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJmaWVsZERpc3BsYXlNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5sYWJlbDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9InByZWZpeERpc3BsYXlNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkFjdGl2ZV9TdHlsZV9Vc2VyX3R5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnBvd2VyPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2F2ZVN0YXJ0VG9vbEluVHlwZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+Q2hhcnQ8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxWYWx1ZXNQYWdpbmciIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjQ8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJGb2NleGVjUHJlZmVyZW5jZXMiIHR5cGU9Ik1hcCI+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlTbGljZXJzVGFiRWRpdEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5U2VyaWVzVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImF1dG9EcmlsbFNjcmlwdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyIvPgogICAgICAgICAgICA8RW50cnkga2V5PSJydW5PblN0YXJ0dXBEZWZlcnJlZEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5RWRpdE1vZGVJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheUhvbWVUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0idGFyZ2V0QXV0b0xpbmtJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0ibWV0YWRhdGFfdmlld3MiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPk1ldGFEYXRhVHJlZS5WSUVXX0RJTVM8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5RGF0YVRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJpbmZvQXNzaXN0TW9kZUFsbG93ZWRJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZW5hYmxlQXV0b0xpbmtJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+NTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlJbnNlcnRUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0icnVuT25TdGFydHVwSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheUxheW91dFRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5SW50ZXJhY3RpdmVNb2RlSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZW5hYmxlSW5mb01pbmlfU2F2ZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+dHJ1ZTwvRW50cnk+CiAg&#10;*-INTERNAL_COMMENT LINE#1$ICAgICAgICAgIDxFbnRyeSBrZXk9ImRlZmF1bHRfcHJldmlld19wYWdlbGltaXRfbGF5b3V0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4xPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheVNsaWNlcnNUYWJJbnRlcmFjdGl2ZUluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+dHJ1ZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRlZmF1bHRfY29tcG9zZV9mb3JtYXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPlBERjwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlSZXNvdXJjZXNGaWVsZFRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5Rm9ybWF0VGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJjYXNjYWRlTmFtZXMiIHR5cGU9Ik1hcCIvPgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJNYXN0ZXJfRmlsZXMiIHR5cGU9IlNldCI+CiAgICAgICAgICAgIDxFbnRyeSB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5yZXRhaWxfc2FtcGxlcy93Zl9yZXRhaWxfbGl0ZTwvRW50cnk+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0ibWV0YWRhdGFWaWV3QXMiIHR5cGU9Ik1hcCI+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9InJldGFpbF9zYW1wbGVzL3dmX3JldGFpbF9saXRlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5NZXRhRGF0YVRyZWUuVklFV19ESU1TPC9FbnRyeT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJlbmFibGVQcmV2aWV3IiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiI+dHJ1ZTwvUHJvcGVydHk+CiAgICA8L09iamVjdD4KPC9Sb290Pg==&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="it_IT"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Mappa Simbolo Proporzionale - Vendite per Negozio"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_TW"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="比例符號圖 - 銷售額 (依商店)"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_CA"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Carte de symboles proportionnels - Ventes par Magasin"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Proportional Symbol Map - Sales by Store"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="pt_BR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Mapa de Símbolo Proporcional - Vendas por Loja"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_CN"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="比例符号图 - 按商店销售"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="es_ES"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Mapa de símbolos proporcionales - Ventas por tienda"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_FR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Carte de symboles proportionnels - Ventes par Magasin"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="プロポーショナルシンボルマップ - 店舗別売上"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="de_DE"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Proportionale Symbolkarte - Verkäufe nach Filiale"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="0"/>
+</rootObject>

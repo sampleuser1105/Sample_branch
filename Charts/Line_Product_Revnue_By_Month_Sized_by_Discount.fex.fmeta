@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" appName="retail_samples" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="6">
+        <entry key="ChartType" value="Line_Absolute"/>
+        <entry key="LastDescribed" value="1672399011477"/>
+        <entry key="OutputFormat" value="JSCHART"/>
+        <entry key="bucketSyntax" value="true"/>
+        <entry key="masters" value="&quot;retail_samples/wf_retail_lite"/>
+        <entry key="tool" value="infoAssist,chart,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: December 24, 2021, Version: 8207.19,1D4A50F&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iMi4xIiB2ZXJzaW9uPSIxLjQiPgogICAgPE9iamVjdCBvYmplY3RJZD0iVGFibGVDaGFydF8xIj4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkxpbmtlZFNvcnRzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImR1YWxCdWNrZXRGaWVsZFR5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZHVhbEJ1Y2tldE51bWVyaWMiIHR5cGU9Ik1hcCIvPgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJXaGVyZVR5cGVzT3JkZXJlZCIgdHlwZT0iTGlzdCI+CiAgICAgICAgICAgIDxFbnRyeSB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5JQV9XSEVSRTwvRW50cnk+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iT3B0aW9uYWxQYXJhbXMiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4KICAgIDwvT2JqZWN0PgogICAgPE9iamVjdCBvYmplY3RJZD0iR0xPQkFMIj4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2FtcGxlRGF0YSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iR2xvYmFsUmVjb3JkTGltaXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjUwMDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJ1blJlY29yZExpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4wPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iR2xvYmFsT3B0aW1pemF0aW9uIiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiI+dHJ1ZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImZpZWxkRGlzcGxheU1vZGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmxhYmVsPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0icHJlZml4RGlzcGxheU1vZGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iQWN0aXZlX1N0eWxlX1VzZXJfdHlwZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+cG93ZXI8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJTYXZlU3RhcnRUb29sSW5UeXBlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5DaGFydDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFZhbHVlc1BhZ2luZyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+NDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkZvY2V4ZWNQcmVmZXJlbmNlcyIgdHlwZT0iTWFwIj4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheVNsaWNlcnNUYWJFZGl0SW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlTZXJpZXNUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iYXV0b0RyaWxsU2NyaXB0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9InJ1bk9uU3RhcnR1cERlZmVycmVkSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlFZGl0TW9kZUluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5SG9tZVRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJ0YXJnZXRBdXRvTGlua0luZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJtZXRhZGF0YV92aWV3cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+TWV0YURhdGFUcmVlLlZJRVdfRElNUzwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlEYXRhVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImluZm9Bc3Npc3RNb2RlQWxsb3dlZEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJlbmFibGVBdXRvTGlua0luZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkZWZhdWx0X3ByZXZpZXdfcGFnZWxpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj41PC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheUluc2VydFRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJydW5PblN0YXJ0dXBJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5TGF5b3V0VGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlJbnRlcmFjdGl2ZU1vZGVJbmZvTWluaVByZWZlcmVuY2Ui&#10;*-INTERNAL_COMMENT LINE#1$IHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJlbmFibGVJbmZvTWluaV9TYXZlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdF9sYXlvdXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjE8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5U2xpY2Vyc1RhYkludGVyYWN0aXZlSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9jb21wb3NlX2Zvcm1hdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+UERGPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheVJlc291cmNlc0ZpZWxkVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlGb3JtYXRUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJJc0dyYXlPdXRGaWVsZHNNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY2FzY2FkZU5hbWVzIiB0eXBlPSJNYXAiLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iTWFzdGVyX0ZpbGVzIiB0eXBlPSJTZXQiPgogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+cmV0YWlsX3NhbXBsZXMvd2ZfcmV0YWlsX2xpdGU8L0VudHJ5PgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Im1ldGFkYXRhVmlld0FzIiB0eXBlPSJNYXAiPgogICAgICAgICAgICA8RW50cnkga2V5PSJyZXRhaWxfc2FtcGxlcy93Zl9yZXRhaWxfbGl0ZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+TWV0YURhdGFUcmVlLlZJRVdfRElNUzwvRW50cnk+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZW5hYmxlUHJldmlldyIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPnRydWU8L1Byb3BlcnR5PgogICAgPC9PYmplY3Q+CjwvUm9vdD4=&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="it_IT"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Linea - Ricavi dei ProdottI per Mese - Dimensione per Sconto"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_TW"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="直線圖 - 產品收入(依月份) - 調整大小(依折扣)"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_CA"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Ligne - Revenu des produits par Mois - Taille par Remise"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Line - Product Revenue By Month - Sized by Discount"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="es_ES"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Línea - Ingresos por productos por mes - Dimensionados por descuento"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="pt_BR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Linhas - Renda de Produto por Mês - Dimensionado por Disconto"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_CN"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="线图 - 按月的产品收入 - 按折扣调整大小"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_FR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Ligne - Revenu des produits par Mois - Taille par Remise"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="折れ線 - 月別製品売上 - 値引き単位"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="de_DE"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Linien - Produktumsatz nach Monat - Linienstärke proportional zu Discount"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="0"/>
+</rootObject>

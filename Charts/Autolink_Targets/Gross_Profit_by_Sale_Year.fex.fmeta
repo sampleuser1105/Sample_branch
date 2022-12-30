@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" appName="retail_samples" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="7">
+        <entry key="CIObject" value="on"/>
+        <entry key="LastDescribed" value="1672399004212"/>
+        <entry key="OutputFormat" value="JSCHART"/>
+        <entry key="autoDescribe" value="on"/>
+        <entry key="masters" value="&quot;retail_samples/wf_retail"/>
+        <entry key="skipamper" value="on"/>
+        <entry key="tool" value="infoAssist,chart,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: December 28, 2020, Version: 8207.23,21A3156&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iMi4xIiB2ZXJzaW9uPSIxLjQiPgogICAgPE9iamVjdCBvYmplY3RJZD0iVGFibGVDaGFydF8xIj4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkxpbmtlZFNvcnRzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ik9wdGlvbmFsUGFyYW1zIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5TVE9SRV9OQU1FLDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImR1YWxCdWNrZXROdW1lcmljIiB0eXBlPSJNYXAiLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iV2hlcmVUeXBlc09yZGVyZWQiIHR5cGU9Ikxpc3QiPgogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+SUFfV0hFUkU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+SUFfV0hFUkU8L0VudHJ5PgogICAgICAgIDwvUHJvcGVydHk+CiAgICA8L09iamVjdD4KICAgIDxPYmplY3Qgb2JqZWN0SWQ9IkdMT0JBTCI+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlNhbXBsZURhdGEiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJlY29yZExpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj41MDA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxSdW5SZWNvcmRMaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+MDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbE9wdGltaXphdGlvbiIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPnRydWU8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJmaWVsZERpc3BsYXlNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5sYWJlbDwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9InByZWZpeERpc3BsYXlNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkFjdGl2ZV9TdHlsZV9Vc2VyX3R5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnBvd2VyPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2F2ZVN0YXJ0VG9vbEluVHlwZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+Q2hhcnQ8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxWYWx1ZXNQYWdpbmciIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjQ8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJGb2NleGVjUHJlZmVyZW5jZXMiIHR5cGU9Ik1hcCI+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlTbGljZXJzVGFiRWRpdEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5U2VyaWVzVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImF1dG9EcmlsbFNjcmlwdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyIvPgogICAgICAgICAgICA8RW50cnkga2V5PSJydW5PblN0YXJ0dXBEZWZlcnJlZEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5RWRpdE1vZGVJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheUhvbWVUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0idGFyZ2V0QXV0b0xpbmtJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJtZXRhZGF0YV92aWV3cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+TWV0YURhdGFUcmVlLlZJRVdfRElNUzwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlEYXRhVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImluZm9Bc3Npc3RNb2RlQWxsb3dlZEluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJlbmFibGVBdXRvTGlua0luZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkZWZhdWx0X3ByZXZpZXdfcGFnZWxpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj41PC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheUluc2VydFRhYkluZm9NaW5pUHJlZmVyZW5jZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJydW5PblN0YXJ0dXBJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5TGF5b3V0VGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlJbnRlcmFjdGl2ZU1vZGVJbmZvTWluaVBy&#10;*-INTERNAL_COMMENT LINE#1$ZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJlbmFibGVJbmZvTWluaV9TYXZlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdF9sYXlvdXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjE8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJkaXNwbGF5U2xpY2Vyc1RhYkludGVyYWN0aXZlSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9jb21wb3NlX2Zvcm1hdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+UERGPC9FbnRyeT4KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGlzcGxheVJlc291cmNlc0ZpZWxkVGFiSW5mb01pbmlQcmVmZXJlbmNlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRpc3BsYXlGb3JtYXRUYWJJbmZvTWluaVByZWZlcmVuY2UiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5PgogICAgICAgICAgICA8RW50cnkga2V5PSJJc0dyYXlPdXRGaWVsZHNNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5mYWxzZTwvRW50cnk+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY2FzY2FkZU5hbWVzIiB0eXBlPSJNYXAiLz4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iTWFzdGVyX0ZpbGVzIiB0eXBlPSJTZXQiPgogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+cmV0YWlsX3NhbXBsZXMvd2ZfcmV0YWlsPC9FbnRyeT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJtZXRhZGF0YVZpZXdBcyIgdHlwZT0iTWFwIj4KICAgICAgICAgICAgPEVudHJ5IGtleT0icmV0YWlsX3NhbXBsZXMvd2ZfcmV0YWlsIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5NZXRhRGF0YVRyZWUuVklFV19ESU1TPC9FbnRyeT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJTbGljZXJHdWlJc2xhbmQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmV5SmlRWFYwYjFCeVpYWnBaWGNpT21aaGJITmxMQ0ppVDNCMGFXOXVjMGR5YjNWd1ZtbHphV0pzWlNJNmRISjFaU3dpWWxKbFkweHBiV2wwUjNKdmRYQldhWE5wWW14bElqcDBjblZsTENKaVVISmxkbWxsZDBOdmJuUnliMnhXYVhOcFlteGxJanAwY25WbExDSmlVblZ1ZEdsdFpVTnZiblJ5YjJ4V2FYTnBZbXhsSWpwMGNuVmxmUT09PC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU0xJQ0VSX0lORk9STUFUSU9OIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5QRDk0Yld3Z2RtVnljMmx2YmowaU1TNHdJaUJsYm1OdlpHbHVaejBpVlZSR0xUZ2lQejQ4SVMwdFEwOU5VRXhGVkVWZlUweEpRMFZTWDBkU1QxVlFMUzArUEZOTVNVTkZVbDlIVWs5VlVENDhSMUpQVlZBZ1ozSnZkWEJPZFcxaVpYSTlJakFpSUhOc2FXTmxja2R5YjNWd1RHRmlaV3c5SWtkeWIzVndJREVpSUhOc2FXTmxja2R5YjNWd1QzSmtaWEk5SWpBaUlITnNhV05sY2tkeWIzVndVMmw2WlQwaU1DSWdjMnhwWTJWeVIzSnZkWEJvYVdSbFBTSm1ZV3h6WlNJdlBqd3ZVMHhKUTBWU1gwZFNUMVZRUGc9PTwvUHJvcGVydHk+CiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImVuYWJsZVByZXZpZXciIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj50cnVlPC9Qcm9wZXJ0eT4KICAgIDwvT2JqZWN0Pgo8L1Jvb3Q+&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
+        <entry>
+            <key _jt="string" value="it_IT"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Indicatore - Profitto Lordo per Vendite Annuali"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_CA"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Jauge - Profits bruts par année de vente"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_TW"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="量規 - 毛利(依銷售年度)"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Gauge - Gross Profit by Sale Year"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="es_ES"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Indicador - Margen bruto por Año de ventas"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="pt_BR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Medidor - Lucro Bruto por Ano de Venda"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="zh_CN"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="网格 - 按销售年度的毛利润"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="fr_FR"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Jauge - Profits bruts par année de vente"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="メータ ‐ 売上年度別粗利益"/>
+            </value>
+        </entry>
+        <entry>
+            <key _jt="string" value="de_DE"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Messuhr - Bruttogewinn nach Verkaufsjahr"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="1">
+        <item _jt="IBRFexParameter" amperFormat="A30V" datadomain="STORE_NAME" description="Store Name:" index="0" multiselect="false" parent="" parmname="STORE_NAME" required="false">
+            <amperVarType class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+            <amperVar aggType="" amperIdx="17" chainIdx="-1" class="com.ibi.wfrs.IBFSWFDescribe$AmperVar" description="Store Name:" format="A30V" idxInChain="-1" inForm="true" isDefault="true" max="0.0" min="0.0" name="STORE_NAME" noSelection="false" parent="" proc="" sortFields="" sortOrder="" strDef="_FOC_NULL" validate="">
+                <type class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+                <userDefValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </userDefValues>
+                <defValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </defValues>
+                <displayType class="com.ibi.wfrs.IBFSAmperDisplayType" name="prompt"/>
+                <values accessOrder="false" class="java.util.LinkedHashMap" loadFactor="0.75" threshold="0"/>
+                <parameters _jt="HashMap" loadFactor="0.75" threshold="12">
+                    <entry>
+                        <key _jt="string" value="quotedstring"/>
+                        <value _jt="string" value="YES"/>
+                    </entry>
+                </parameters>
+            </amperVar>
+        </item>
+    </fexParameters>
+</rootObject>
